@@ -1,3 +1,3 @@
-git clone https://github.com/MarcoPolo03/claudeverstradingview.git ~/claudeverstradingview
+git clone https://github.com/mpilote03/claudeverstradingview.git ~/claudeverstradingview
 cd ~/claudeverstradingview
 npm install
